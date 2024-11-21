@@ -1,2 +1,2 @@
 # practice
-only for pranct 
+This is only for pranctice purpose  
